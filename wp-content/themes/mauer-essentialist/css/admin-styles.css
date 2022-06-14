@@ -1,0 +1,62 @@
+#setting-error-tgmpa.update-nag {
+	display: block;
+}
+
+
+.collection-settings.gallery-settings label {
+	display: none!important;
+}
+
+.collection-settings.gallery-settings:after {
+	content: 'No settings in this theme.';
+}
+
+
+/* custom logo image field */
+[data-name='logo_image'] img {
+	width: auto!important;
+	max-width: 200px!important;
+	max-height: 150px!important;
+}
+
+
+/* featured image for post lists field */
+body:not([class*="branch-4"]) #acf-group_4s7463m25481a h2.hndle {
+  border-bottom: 0;
+}
+
+.acf-field-8r7313d5dn521 {
+	padding: 0 15px 15px!important;
+}
+
+
+.mauer-essentialist-excerpt-chars-count {
+	margin: 3px 0 15px;
+	text-align: left;
+	font-size: 12px;
+}
+
+.mauer-essentialist-excerpt-chars-count i {
+	font-style: normal;
+}
+
+.mauer-essentialist-excerpt-chars-count i.attn {
+	color: #c92c2c;
+	font-weight: bold;
+}
+
+.acf-field p.description {
+	margin: 8px 0 0;
+	font-size: 11.5px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.4;
+	color: #a1a1a1;
+	letter-spacing: -0.0225em;
+}
+
+::-webkit-input-placeholder {color: #b1b1b1; font-weight: 300; font-style: italic; letter-spacing: -0.0225em;} /* WebKit, Blink, Edge */
+:-moz-placeholder {color: #b1b1b1; opacity: 1; font-weight: 300; font-style: italic; letter-spacing: -0.0225em;} /* Mozilla Firefox 4 to 18 */
+::-moz-placeholder {color: #b1b1b1; opacity: 1; font-weight: 300; font-style: italic; letter-spacing: -0.0225em;} /* Mozilla Firefox 19+ */
+:-ms-input-placeholder {color: #b1b1b1; font-weight: 300; font-style: italic; letter-spacing: -0.0225em;} /* Internet Explorer 10-11 */
+:placeholder-shown {color: #b1b1b1; font-weight: 300; font-style: italic; letter-spacing: -0.0225em;} /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */

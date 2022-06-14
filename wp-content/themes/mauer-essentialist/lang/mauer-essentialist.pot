@@ -1,0 +1,1046 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mauer Essentialist\n"
+"POT-Creation-Date: 2020-06-17 17:08+0300\n"
+"PO-Revision-Date: 2020-06-17 17:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:16
+msgid "Page not found (Error 404)"
+msgstr ""
+
+#: 404.php:18
+#, php-format
+msgid ""
+"You may want to head over to the <a href=\"%s\">front page</a>, or search "
+"for the content you expected to be here."
+msgstr ""
+
+#: comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed"
+msgstr ""
+
+#: content-big_latest.php:21 content-grid_2_cols.php:40
+#: content-grid_3_cols.php:32 content-list.php:28 content-masonry.php:40
+msgid "Sticky"
+msgstr ""
+
+#: content-big_latest.php:22 content-grid_2_cols.php:41
+#: content-grid_3_cols.php:33 content-list.php:29 content-masonry.php:41
+#: single.php:36 single.php:102
+msgctxt "blog entry categories separator"
+msgid ", "
+msgstr ""
+
+#: content-grid_2_cols.php:84 content-grid_3_cols.php:76 content-list.php:74
+#: content-masonry.php:92 page.php:52 single.php:135
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: footer.php:15
+msgid "Follow on Instagram:"
+msgstr ""
+
+#: footer.php:19
+msgid ""
+"An error occured while getting Instagram images. Please double-check your "
+"settings. Original error text: "
+msgstr ""
+
+#: functions.php:21
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:106
+msgid "of 110–160 recommended"
+msgstr ""
+
+#: functions.php:136
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:191
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:192
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:193
+msgctxt "Yesteryear font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:386 functions.php:417
+msgid "read more"
+msgstr ""
+
+#: functions.php:453
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:455
+msgid "Newer results"
+msgstr ""
+
+#: functions.php:470
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:472
+msgid "Older results"
+msgstr ""
+
+#: functions.php:487
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:493
+msgid "Next page"
+msgstr ""
+
+#: functions.php:494
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:517
+msgid "Pingback"
+msgstr ""
+
+#: functions.php:533
+msgctxt "comes between comment date and comment time"
+msgid "at"
+msgstr ""
+
+#: functions.php:538
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:560
+msgctxt "comment form placeholder"
+msgid "Name"
+msgstr ""
+
+#: functions.php:561
+msgctxt "comment form placeholder"
+msgid "Email"
+msgstr ""
+
+#: functions.php:562
+msgctxt "comment form placeholder"
+msgid "Website"
+msgstr ""
+
+#: functions.php:596
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: functions.php:778
+msgid "Bottom - Left"
+msgstr ""
+
+#: functions.php:780
+msgid "Left widgetized area"
+msgstr ""
+
+#: functions.php:787
+msgid "Bottom - Center"
+msgstr ""
+
+#: functions.php:789
+msgid "Central widgetized area"
+msgstr ""
+
+#: functions.php:796
+msgid "Bottom - Right"
+msgstr ""
+
+#: functions.php:798
+msgid "Right widgetized area"
+msgstr ""
+
+#: functions.php:1055
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Your Name"
+msgstr ""
+
+#: functions.php:1056
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Email"
+msgstr ""
+
+#: functions.php:1057
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Message"
+msgstr ""
+
+#: functions.php:1058
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Send"
+msgstr ""
+
+#: functions.php:1100
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: functions.php:1108
+msgid "Mauer Essentialist Gallery"
+msgstr ""
+
+#: functions.php:1116
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:1122
+msgid "Jetpack"
+msgstr ""
+
+#: header.php:35
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:386
+#: includes/TGMPA/class-tgm-plugin-activation.php:827
+#: includes/TGMPA/class-tgm-plugin-activation.php:2533
+#: includes/TGMPA/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:387
+#: includes/TGMPA/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:388
+#: includes/TGMPA/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/TGMPA/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:934
+#: includes/TGMPA/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1121
+#: includes/TGMPA/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/TGMPA/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/TGMPA/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/acf-fields.php:7
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related Posts"
+msgstr ""
+
+#: includes/acf-fields.php:16
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show related posts"
+msgstr ""
+
+#: includes/acf-fields.php:31
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Auto"
+msgstr ""
+
+#: includes/acf-fields.php:32
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Select manually"
+msgstr ""
+
+#: includes/acf-fields.php:43
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"'Auto' automatically selects related posts based on category.\n"
+"'Select manually' enables to select the posts manually and customize the "
+"title of the block."
+msgstr ""
+
+#: includes/acf-fields.php:62 includes/acf-fields.php:64
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related posts"
+msgstr ""
+
+#: includes/acf-fields.php:68
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related posts heading"
+msgstr ""
+
+#: includes/acf-fields.php:106
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Post"
+msgstr ""
+
+#: includes/acf-fields.php:122
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Add Post"
+msgstr ""
+
+#: includes/acf-fields.php:125
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Specify related posts"
+msgstr ""
+
+#: includes/acf-fields.php:128
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Drag the left side of a line to rearrange posts."
+msgstr ""
+
+#: includes/acf-fields.php:172
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Featured Image for Post Grids"
+msgstr ""
+
+#: includes/acf-fields.php:179
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Useful for 'Masonry' layout. Does not affect the 'Big Latest' post, and the "
+"posts in 'List' layout."
+msgstr ""
+
+#: includes/acf-fields.php:220
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme Options"
+msgstr ""
+
+#: includes/acf-fields.php:225
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Accent color"
+msgstr ""
+
+#: includes/acf-fields.php:228
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "The demo uses #ad8353"
+msgstr ""
+
+#: includes/acf-fields.php:241 includes/acf-fields.php:245
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Text logo"
+msgstr ""
+
+#: includes/acf-fields.php:242
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom image"
+msgstr ""
+
+#: includes/acf-fields.php:252
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Logo to use"
+msgstr ""
+
+#: includes/acf-fields.php:255
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Whether to use a nicely tailored text logo or a custom image."
+msgstr ""
+
+#: includes/acf-fields.php:278
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom logo image"
+msgstr ""
+
+#: includes/acf-fields.php:281
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Upload your custom image (it's height should be at least 96px)."
+msgstr ""
+
+#: includes/acf-fields.php:300
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom logo width (pixels)"
+msgstr ""
+
+#: includes/acf-fields.php:303
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Here you can scale your logo by controlling its width on the website. It's "
+"reasonable to upload an image twice as wide as the value you set here — for "
+"sharper display on pixel dense displays (e.g. Retina).\n"
+"Default: 180."
+msgstr ""
+
+#: includes/acf-fields.php:335
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Hide tagline from the header"
+msgstr ""
+
+#: includes/acf-fields.php:354
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Favicon Fallback"
+msgstr ""
+
+#: includes/acf-fields.php:357
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If no site icon set in Appearance > Customize, this letter (latin) will be "
+"displayed in site favicon. Defaults to the first letter of the site title."
+msgstr ""
+
+#: includes/acf-fields.php:403
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Icon"
+msgstr ""
+
+#: includes/acf-fields.php:424
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Url"
+msgstr ""
+
+#: includes/acf-fields.php:442
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Add"
+msgstr ""
+
+#: includes/acf-fields.php:445
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Social links"
+msgstr ""
+
+#: includes/acf-fields.php:448
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Links to social networks pages that are displayed in the header of the "
+"website."
+msgstr ""
+
+#: includes/acf-fields.php:460
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Masonry"
+msgstr ""
+
+#: includes/acf-fields.php:461
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "List"
+msgstr ""
+
+#: includes/acf-fields.php:462
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2-column grid"
+msgstr ""
+
+#: includes/acf-fields.php:463
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "3-column grid"
+msgstr ""
+
+#: includes/acf-fields.php:471
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Blog page layout"
+msgstr ""
+
+#: includes/acf-fields.php:490
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Make the first blog post big"
+msgstr ""
+
+#: includes/acf-fields.php:493
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Please mind that this adds an extra post to the first page of the blog. E."
+"g., if you have 10 set in WP Admin > Settings > Reading > 'Blog pages show "
+"at most',\n"
+"there will be 11 posts shown on the first blog page if this checkbox is "
+"checked. This\n"
+"helps keep the layout consistent."
+msgstr ""
+
+#: includes/acf-fields.php:514
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Enable"
+msgstr ""
+
+#: includes/acf-fields.php:519
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Fallback excerpts"
+msgstr ""
+
+#: includes/acf-fields.php:522
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If enabled, post excerpts will be displayed on archive pages even when there "
+"are no 'read more' blocks, or explicitly provided excerpts. For aesthetic "
+"and content-engagement purposes it's highly recommended to create excerpts "
+"manually."
+msgstr ""
+
+#: includes/acf-fields.php:533
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "If left blank, defaults to 30."
+msgstr ""
+
+#: includes/acf-fields.php:541
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Fallback excerpts length (words)"
+msgstr ""
+
+#: includes/acf-fields.php:567
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show Instagram feed"
+msgstr ""
+
+#: includes/acf-fields.php:582
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "paste your access token here"
+msgstr ""
+
+#: includes/acf-fields.php:586
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Instagram Access Token"
+msgstr ""
+
+#: includes/acf-fields.php:589
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"An access token provides a secure way for a website to ask Instagram to "
+"serve photos."
+msgstr ""
+
+#: includes/acf-fields.php:590
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Get Token"
+msgstr ""
+
+#: includes/acf-fields.php:608 includes/acf-fields.php:610
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme by <a href=\"http://mauer.co\">Mauer Themes</a>"
+msgstr ""
+
+#: includes/acf-fields.php:614
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Copyright text"
+msgstr ""
+
+#: includes/acf-fields.php:635
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Include year in the copyright"
+msgstr ""
+
+#: includes/acf-fields.php:656
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Copyright year"
+msgstr ""
+
+#: includes/acf-fields.php:659
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If you insert the current year, it will be displayed as is. If you insert a "
+"past year, it will be displayed with the current year like so: \"2013–"
+"2017\". If left blank, will always display the current year."
+msgstr ""
+
+#: includes/acf-fields.php:683
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Keep Jetpack Image CDN disabled (recommended)"
+msgstr ""
+
+#: includes/acf-fields.php:686
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"This forces Jetpack Photon module to be off, by overriding the setting in "
+"\"Jetpack\" > \"Settings\" > \"Serve images from our servers\". Photon is "
+"known to cause issues with images such as overcompressing. It's recommended "
+"to have this checkbox checked."
+msgstr ""
+
+#: includes/acf-fields.php:702
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Individual images sharing"
+msgstr ""
+
+#: includes/acf-fields.php:705
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Share individual images from lightbox view."
+msgstr ""
+
+#: index.php:11
+msgctxt "Search results page heading"
+msgid "Search results for: "
+msgstr ""
+
+#: searchform.php:8
+msgctxt "Search field placeholder"
+msgid "Type here"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "Search button text"
+msgid "Search"
+msgstr ""
+
+#: single.php:51
+msgid "Tags"
+msgstr ""
+
+#: single.php:80
+msgid "Related posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Mauer Essentialist"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://essentialist.mauer.co"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blogging theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mauer Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mauer.co"
+msgstr ""

@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mauer Essentialist Gallery\n"
+"POT-Creation-Date: 2020-06-17 17:09+0300\n"
+"PO-Revision-Date: 2020-06-17 17:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: src/gallery/edit.js:125
+msgid ""
+"The \"ids\" attribute should not be changed directly. It is managed "
+"automatically when \"images\" attribute changes"
+msgstr ""
+
+#: src/gallery/edit.js:167
+msgid "Thumbnails are cropped to align."
+msgstr ""
+
+#: src/gallery/edit.js:167
+msgid "Thumbnails are not cropped."
+msgstr ""
+
+#: src/gallery/edit.js:246
+msgid "Edit Gallery"
+msgstr ""
+
+#: src/gallery/edit.js:265 src/gallery/index.js:98
+msgid "Essentialist Gallery"
+msgstr ""
+
+#: src/gallery/edit.js:266
+msgid "Drag images, upload new ones or select files from your library."
+msgstr ""
+
+#: src/gallery/edit.js:333
+msgid "Upload an image"
+msgstr ""
+
+#: src/gallery/gallery-image.js:126
+msgid "Remove Image"
+msgstr ""
+
+#: src/gallery/gallery-image.js:134
+msgid "Write caption…"
+msgstr ""
+
+#: src/gallery/index.js:99
+msgid "A neat automatically stacked gallery of images with a lightbox."
+msgstr ""
+
+#: src/gallery/index.js:102
+msgid "images"
+msgstr ""
+
+#: src/gallery/index.js:102
+msgid "photos"
+msgstr ""
+
+#: plugin.php:91
+msgid "Close (Esc)"
+msgstr ""
+
+#: plugin.php:92
+msgid "Share"
+msgstr ""
+
+#: plugin.php:93
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: plugin.php:94
+msgid "Zoom in/out"
+msgstr ""
+
+#: plugin.php:107
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: plugin.php:109
+msgid "Next (arrow right)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mauer Essentialist Gallery"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://essentialist.mauer.co/galleries-showcase"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a custom Gutenberg block for use with Mauer Themes' Essentialist. Has "
+"legacy support (via the [gallery] shortcode)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mauer Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mauer.co"
+msgstr ""
